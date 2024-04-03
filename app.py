@@ -12,7 +12,7 @@ from whatsapp_api import WhatsAppBusinessAPI
 # Configuración inicial y definiciones
 API_URL = "https://api-inference.huggingface.co/models/dataautogpt3/OpenDalleV1.1"
 headers = {"Authorization": "Bearer {apikey}"}
-token_whatsapp = 'EAAWLpi8brnoBO1qoWCRW0fqJAMUM1PeBB0ZCVJ3zinc7f58UDZANJSUiemAo1sfbh4WLfx3W6uqNjR6TAxg8yP267ZAf6OF3d9YHJZBGMskGdD6nbHBWTeC5PnoudSomF5jRCnaCM6k0Sw9o3ViSVYT66Qpz9n9F7dxHXDrHqKeZAAq1lQH6sNiPOccB8tbiR'
+token_whatsapp = ''
 whatsapp_business_account_id = '240246142511300'
 whatsapp_phone_number_id = '240246142511300'
 DB_FILE = "stero.db"
